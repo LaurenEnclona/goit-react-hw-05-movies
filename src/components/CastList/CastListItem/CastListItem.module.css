@@ -5,3 +5,6 @@
     border-radius: 5px;
   }
 }
+.castListItem:hover {
+  transform: scale(1.1);
+}
